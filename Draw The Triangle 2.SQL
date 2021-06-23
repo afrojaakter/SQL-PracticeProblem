@@ -9,6 +9,9 @@ P(R) represents a pattern drawn by Julia in R rows. The following pattern repres
 * * * * 
 * * * * *
 Write a query to print the pattern P(20).
+
+
+SOLUTION:
 */
 
 SET @NUMBER = 0;
